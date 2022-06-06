@@ -1,0 +1,17 @@
+name: hyperplan
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - ipython
+  - joblib
+  - jupyter
+  - matplotlib
+  - scikit-learn
+  - pandas
+  - fastparquet
+  - seaborn
+  - xlrd
+  - tqdm
+  - lightgbm
+  - xgboost
