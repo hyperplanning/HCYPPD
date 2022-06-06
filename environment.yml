@@ -5,6 +5,7 @@ dependencies:
   - python=3.9
   - ipython
   - joblib
+  - pyarrow
   - jupyter
   - matplotlib
   - scikit-learn
