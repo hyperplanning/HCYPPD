@@ -1,0 +1,48 @@
+rr24_t_avg_knn_5_pca_map
+
+5 5 18 9  75.7%
+
+rr24_t_avg_alc_5_pca_map
+
+4 6 19 8  78.4%
+
+rr24_t_avg_knn_4_pca_map
+
+3 6 19 10  73.7%
+
+rr24_t_avg_alc_4_pca_map
+
+3 8 17 10  73.7%
+
+rr24_t_avg_knn_5_var_map
+
+4 8 16 10  73.7%
+
+rr24_t_avg_alc_5_var_map
+
+2 13 15 8  78.9%
+
+rr24_t_avg_knn_4_var_map
+
+4 9 14 10  73.0%
+
+rr24_t_avg_alc_4_var_map
+
+1 11 17 9  76.3%
+
+rr24_t_avg_knn_5_map
+
+4 7 13 11  68.6%
+
+rr24_t_avg_alc_5_map
+
+4 6 19 8  78.9%
+
+rr24_t_avg_knn_4_map
+
+4 6 16 12 68.4%
+
+rr24_t_avg_alc_4_map
+
+3 8 17 10  73.7%
+
